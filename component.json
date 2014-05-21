@@ -1,0 +1,19 @@
+{
+  "logo": "Amazon",
+  "name": "amazon",
+  "repo": "logo/amazon",
+  "description": "The Amazon logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
